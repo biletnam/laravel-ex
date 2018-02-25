@@ -1,4 +1,4 @@
 DOCUMENTROOT=/public
 SHORT_OPEN_TAG=ON
 APP_LOG=errorlog
-PHP_INI_SCAN_DIR=/etc/opt/rh/rh-php70/php.d:/opt/app-root/src/config/php.ini
+PHP_INI_SCAN_DIR=/etc/opt/rh/rh-php70/php.d:/opt/app-root/src/config
