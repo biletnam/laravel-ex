@@ -1,3 +1,4 @@
 DOCUMENTROOT=/public
 SHORT_OPEN_TAG=ON
 APP_LOG=errorlog
+PHP_INI_SCAN_DIR=/opt/app-root/src/.config
